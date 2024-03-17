@@ -1,0 +1,378 @@
+[
+    {
+        "url":"http://www.singhtarandeep.com",
+        "title" : "Website",
+        "customIcon" : true,
+        "icon" : "website.png",
+        "tags" : "website",
+        "active" : true
+    },
+     {
+        "url":"http://www.blog.singhtarandeep.com",
+        "title" : "Blog",
+        "customIcon" : true,
+        "icon" : "blog.png",
+        "tags" : "blog",
+        "active" : true
+    },
+     {
+        "url":"mailto:me@singhtarandeep.com",
+        "title" : "Email",
+        "customIcon" : false,
+        "icon" : "fa fa-envelope",
+        "tags" : "email,mail",
+        "active" : true
+    },
+     {
+        "url":"http://app.singhtarandeep.com/",
+        "title" : "App",
+        "customIcon" : false,
+        "icon" : "fa fa-android",
+        "tags" : "app, website",
+        "active" : false
+    } ,
+     {
+        "url":"https://tawk.to/chat/5d84c54ac22bdd393bb6e24f/default",
+        "title" : "Chat",
+        "customIcon" : false,
+        "icon" : "fa fa-commenting-o",
+        "tags" : "chat",
+        "active" : true
+    } ,
+     {
+        "url":"https://medium.com/@singhTarandeep",
+        "title" : "Medium",
+        "customIcon" : true,
+        "icon" : "medium.png",
+        "tags" : "medium",
+        "active" : true
+    } ,
+     {
+        "url":"https://www.facebook.com/Tarandeep-Singh-116853619717264",
+        "title" : "Facebook",
+        "customIcon" : false,
+        "icon" : "fa fa-facebook",
+        "tags" : "facebook",
+        "active" : true
+    },
+     {
+        "url":"https://twitter.com/tdssaini",
+        "title" : "Twitter",
+        "customIcon" : false,
+        "icon" : "fa fa-twitter",
+        "tags" : "twitter,social",
+        "active" : true
+    } ,
+     {
+        "url":"https://www.youtube.com/channel/UCVFzF5QnAQXU5a5ZIgAQ0nA",
+        "title" : "Youtube",
+        "customIcon" : false,
+        "icon" : "fa fa-youtube",
+        "tags" : "youtube,social",
+        "active" : true
+    } ,
+     {
+        "url":"https://www.linkedin.com/in/tdssaini/",
+        "title" : "LinkedIn",
+        "customIcon" : false,
+        "icon" : "fa fa-linkedin",
+        "tags" : "twitter,social",
+        "active" : true
+    } ,
+     {
+        "url":"https://instagram.com/tdssaini/",
+        "title" : "Instagram",
+        "customIcon" : false,
+        "icon" : "fa fa-instagram",
+        "tags" : "instagram,social",
+        "active" : true
+    } ,
+     {
+        "url":"https://github.com/tdssaini",
+        "title" : "Github",
+        "customIcon" : false,
+        "icon" : "fa fa-github",
+        "tags" : "github",
+        "active" : true
+    } ,
+     {
+        "url":"https://stackoverflow.com/users/3668907/tarandeep-singh",
+        "title" : "Stackoverflow",
+        "customIcon" : false,
+        "icon" : "fa fa-stack-overflow",
+        "tags" : "stackoverflow",
+        "active" : true
+    } ,
+     {
+        "url":"http://kaggle.com/tdssaini",
+        "title" : "Kaggle",
+        "customIcon" : true,
+        "icon" : "kaggle.png",
+        "tags" : "kaggle",
+        "active" : true
+    } ,
+     {
+        "url":"http://certifications.singhtarandeep.com/",
+        "title" : "Certifications",
+        "customIcon" : true,
+        "icon" : "certification.png",
+        "tags" : "certifications",
+        "active" : true
+    } ,
+     {
+        "url":"http://resume.singhtarandeep.com/",
+        "title" : "Resume",
+        "customIcon" : true,
+        "icon" : "resume.png",
+        "tags" : "resume",
+        "active" : true
+    } ,
+     {
+        "url":"https://stackexchange.com/users/4513379/tarandeep-singh",
+        "title" : "Stackexchange",
+        "customIcon" : false,
+        "icon" : "fa fa-stack-exchange",
+        "tags" : "stackexchange",
+        "active" : true
+    } ,
+     {
+        "url":"https://trailhead.salesforce.com/en/me/tdssaini",
+        "title" : "Trailhead",
+        "customIcon" : true,
+        "icon" : "trailhead.png",
+        "tags" : "trailhead",
+        "active" : true
+    } ,
+     {
+        "url":"https://about.me/tdssaini",
+        "title" : "About.me",
+        "customIcon" : true,
+        "icon" : "aboutme.png",
+        "tags" : "about me, website",
+        "active" : true
+    } ,
+     {
+        "url":"https://www.slideshare.net/ErTarandeepSingh/",
+        "title" : "Slideshare",
+        "customIcon" : true,
+        "icon" : "slideshare.png",
+        "tags" : "slideshare,presentations",
+        "active" : true
+    } ,
+     {
+        "url":"https://www.codeproject.com/Members/tdssaini",
+        "title" : "Codeproject",
+        "customIcon" : true,
+        "icon" : "codeproject.png",
+        "tags" : "codeproject",
+        "active" : true
+    } ,
+     {
+        "url":"https://codepen.io/tdssaini",
+        "title" : "Codepen",
+        "customIcon" : false,
+        "icon" : "fa fa-codepen",
+        "tags" : "codepen",
+        "active" : true
+    } ,
+     {
+        "url":"https://www.techgig.com/ertarandeepsingh3",
+        "title" : "Techgig",
+        "customIcon" : true,
+        "icon" : "techgig.png",
+        "tags" : "techgig",
+        "active" : true
+    } ,
+     {
+        "url":"https://www.freecodecamp.org/fcc10ec38e7-2f25-4e17-b192-a36f314650bd",
+        "title" : "FreeCodeCamp",
+        "customIcon" : false,
+        "icon" : "fa fa-free-code-camp",
+        "tags" : "freecodecamp,fcc",
+        "active" : true
+    }  ,
+     {
+        "url":"https://hub.docker.com/u/tdssaini",
+        "title" : "Docker",
+        "customIcon" : true,
+        "icon" : "docker.png",
+        "tags" : "docker",
+        "active" : true
+    }  ,
+     {
+        "url":"https://www.meetup.com/members/212918243",
+        "title" : "Meetup",
+        "customIcon" : false,
+        "icon" : "fa fa-meetup",
+        "tags" : "meetup",
+        "active" : true
+    }  ,
+     {
+        "url":"https://www.quora.com/profile/Tarandeep-Singh-24",
+        "title" : "Quora",
+        "customIcon" : false,
+        "icon" : "fa fa-quora",
+        "tags" : "quora",
+        "active" : true
+    }  ,
+     {
+        "url":"https://sessionize.com/tarandeep-singh",
+        "title" : "Sessionize",
+        "customIcon" : true,
+        "icon" : "sessionize.jpg",
+        "tags" : "sessionize",
+        "active" : true
+    }   ,
+     {
+        "url":"https://www.papercall.io/speakers/tdssaini",
+        "title" : "Papercall",
+        "customIcon" : true,
+        "icon" : "papercall.png",
+        "tags" : "papercall",
+        "active" : true
+    }   ,
+     {
+        "url":"https://gitlab.com/tdssaini",
+        "title" : "Gitlab",
+        "customIcon" : false,
+        "icon" : "fa fa-gitlab",
+        "tags" : "gitlab",
+        "active" : true
+    }   ,
+     {
+        "url":"https://fsmi.social/Tdssaini",
+        "title" : "FSMI",
+        "customIcon" : true,
+        "icon" : "fsmi.png",
+        "tags" : "fsmi",
+        "active" : true
+    }   ,
+     {
+        "url":"https://dev.to/tdssaini",
+        "title" : "Dev.to",
+        "customIcon" : true,
+        "icon" : "devto.png",
+        "tags" : "dev.to",
+        "active" : true
+    }    ,
+     {
+        "url":"https://www.reddit.com/u/tdssaini",
+        "title" : "Reddit",
+        "customIcon" : false,
+        "icon" : "fa fa-reddit",
+        "tags" : "reddit",
+        "active" : true
+    }    ,
+     {
+        "url":"https://www.npmjs.com/~tdssaini",
+        "title" : "Npm",
+        "customIcon" : true,
+        "icon" : "npm.svg",
+        "tags" : "npm,npm js",
+        "active" : true
+    }    ,
+     {
+        "url":"https://leetcode.com/tdssaini/",
+        "title" : "LeetCode",
+        "customIcon" : true,
+        "icon" : "leetcode.png",
+        "tags" : "leetcode",
+        "active" : true
+    }    ,
+     {
+        "url":"https://developers.google.com/profile/u/tdssaini",
+        "title" : "Google Dev",
+        "customIcon" : true,
+        "icon" : "google_developer.png",
+        "tags" : "google dev,google",
+        "active" : true
+    }    ,
+     {
+        "url":"https://gdg.community.dev/u/m6tdpy",
+        "title" : "GDG",
+        "customIcon" : true,
+        "icon" : "google_developer.png",
+        "tags" : "gdg",
+        "active" : true
+    }    ,
+     {
+        "url":"https://www.codechef.com/users/tdssaini",
+        "title" : "CodeChef",
+        "customIcon" : true,
+        "icon" : "codechef.png",
+        "tags" : "codechef",
+        "active" : true
+    }     ,
+     {
+        "url":"https://www.hackerrank.com/tdssaini",
+        "title" : "HackerRank",
+        "customIcon" : true,
+        "icon" : "HackerRank_logo.png",
+        "tags" : "hackerrank",
+        "active" : true
+    }     ,
+     {
+        "url":"https://auth.geeksforgeeks.org/user/tdssaini",
+        "title" : "GeeksForGeeks",
+        "customIcon" : true,
+        "icon" : "GeeksforGeeks.png",
+        "tags" : "geeksforgeeks,gfg",
+        "active" : true
+    }     ,
+     {
+        "url":"https://www.hackerearth.com/@tdssaini",
+        "title" : "HackerEarth",
+        "customIcon" : true,
+        "icon" : "hackerearth.png",
+        "tags" : "hackerearth",
+        "active" : true
+    }     ,
+     {
+        "url":"https://www.patreon.com/tdssaini/posts",
+        "title" : "Patreon",
+        "customIcon" : true,
+        "icon" : "patreon.png",
+        "tags" : "patreon",
+        "active" : true
+    }     ,
+     {
+        "url":"https://tdssaini.hashnode.dev",
+        "title" : "HashNode",
+        "customIcon" : true,
+        "icon" : "hashnode.png",
+        "tags" : "hashnode",
+        "active" : true
+    }      ,
+     {
+        "url":"https://www.threads.net/@tdssaini",
+        "title" : "Threads",
+        "customIcon" : true,
+        "icon" : "threads.png",
+        "tags" : "threads,social",
+        "active" : true
+    }      ,
+     {
+        "url":"https://huggingface.co/tdssaini",
+        "title" : "Hugging Face",
+        "customIcon" : true,
+        "icon" : "hf.png",
+        "tags" : "hugging face",
+        "active" : true
+    }      ,
+     {
+        "url":"https://topmate.io/tdssaini",
+        "title" : "Topmate",
+        "customIcon" : true,
+        "icon" : "topmate.png",
+        "tags" : "topmate",
+        "active" : true
+    },
+    {
+        "url" : "https://community.cncf.io/u/mgxsdg",
+        "title" : "CNCF",
+        "customIcon" : true,
+        "icon" : "cloud_native.png",
+        "tags" : "cloud native,cloud native community,cncf",
+        "active" : true
+    }
+]
